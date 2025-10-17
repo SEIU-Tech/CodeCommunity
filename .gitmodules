@@ -1,3 +1,6 @@
 [submodule "ContractBot"]
 	path = ContractBot
 	url = https://github.com/SEIU/ContractBot
+[submodule "pdf-recognition"]
+	path = pdf-recognition
+	url = https://github.com/SEIU/pdf-recognition
