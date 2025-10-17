@@ -1,0 +1,3 @@
+[submodule "ContractBot"]
+	path = ContractBot
+	url = https://github.com/SEIU/ContractBot
