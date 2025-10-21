@@ -1,3 +1,6 @@
 [submodule "ContractBot"]
 	path = ContractBot
 	url = https://github.com/SEIU/ContractBot
+[submodule "DataCleaningSingapore"]
+	path = DataCleaningSingapore
+	url = git@github.com:DavidMertz/DataCleaningSingapore.git
