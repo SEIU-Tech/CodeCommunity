@@ -4,3 +4,6 @@
 [submodule "DataCleaningSingapore"]
 	path = DataCleaningSingapore
 	url = git@github.com:DavidMertz/DataCleaningSingapore.git
+[submodule "pdf-recognition"]
+	path = pdf-recognition
+	url = https://github.com/SEIU/pdf-recognition
