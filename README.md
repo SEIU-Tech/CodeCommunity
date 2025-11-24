@@ -70,3 +70,10 @@ ContractBot code project we’ve made public.
 Once we get this rolling, we'll substitute the actual links to wondeful
 projects and narratives by locals for the hypothetical example shown above.
 
+## Directly Included Resources
+
+### Documents and presentations
+
+* [Unicode: When nothing is anything else](docs/Unicode-matching.pdf)
+
+### Sample source code
