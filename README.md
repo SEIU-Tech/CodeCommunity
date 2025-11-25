@@ -1,6 +1,6 @@
 # SEIU Union-Wide Technology Sharing Resource
 
-2025-10-17
+2025-11-25
 
 ## Purpose
 
@@ -47,13 +47,31 @@ by moderators.
 
 ## Linked Resources
 
-As a first pass at this README, this union-wide resource could have something
-like the following organization, using submodules
+### ContractBot
+
+ContractBot is a customized LLM to aid with SEIU contract negotiators.
+
+The emphasis of ContractBot is to utilize powerful, open-weights, models, 
+but to host them strictly on-prem to strongly limit any exposure of 
+confidential data (including any contained in queries from users).
+
+* https://github.com/SEIU/ContractBot
+
+### SEIU Metrics Calculator
+
+The SEIU Metrics Calculator is a web application, created in 2015, during SEIU's 
+first internal hackathon in 2015. The core purpose was to empower local unions 
+by providing a simple, self-service tool to generate a clear, quantitative
+snapshot of their organizational health, akin to displaying essential financial
+ratios.
+
+* https://github.com/SEIU-Tech/metrics-calculator
+
+### Hypothetical examples
 
 * GitHub:SEIU-tech/CodeCommunity
   - submodule GitHub:Local999/MemberCanvasing (private code and documents created by local 999)
   - submodule GitHub:Local888/DataCleaning (public code shared by local 888 for open re-use)
-  - submodule GitHub:SEIU/ContractBot (public repository for standing up secure internal LLMs)
 
 In the example provided, Local999 and Local888 have complete control over
 content and access permissions to their linked submodules.  The SEIU-tech
