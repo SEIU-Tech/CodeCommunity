@@ -67,6 +67,22 @@ ratios.
 
 * https://github.com/SEIU-Tech/metrics-calculator
 
+### pdf-recognition
+
+Identify whether PDF files contain signatures.
+
+* https://github.com/SEIU/pdf-recognition/
+
+### BitDrop
+
+A secure and anonymous mechanism to share confidential information via a website.
+
+This software was originally implemented by and for Service Employees
+International Union. You are very welcome to utilize it, but you must change
+elements identifying the deployment as belonging to SEIU.
+
+* https://github.com/SEIU-Tech/BitDrop
+
 ### Hypothetical examples
 
 * GitHub:SEIU-tech/CodeCommunity
