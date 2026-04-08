@@ -2,6 +2,11 @@
 
 2025-11-25
 
+## Current Status
+- [x] Accepting Feedback
+- [ ] Not Accepting Feedback
+- [ ] Deprecated
+
 ## Purpose
 
 This repository is intended as a means for SEIU technologists, both at the
