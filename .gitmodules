@@ -13,3 +13,6 @@
 [submodule "BitDrop"]
 	path = BitDrop
 	url = git@github.com:SEIU-Tech/BitDrop.git
+[submodule "zipcodelib"]
+	path = zipcodelib
+	url = git@github.com:DavidMertz/zipcodelib.git
