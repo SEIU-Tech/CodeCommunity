@@ -83,6 +83,19 @@ elements identifying the deployment as belonging to SEIU.
 
 * https://github.com/SEIU-Tech/BitDrop
 
+### Zipcodelib
+
+`zipcodelib` present a simple API to lookup demographic information per zip code.
+Plugins that obtain and process data from various source that live in the 
+`datasets/` subdirectory. 
+
+Using the library consists simply of (optionally) refreshing the available
+data, then using the lookup() function to generate additional features
+associated with a zip code. Note that since this data is, by definition,
+aggregate--albeit across a small population--any particular traits of the zip
+code population may or may not be relevant to the individual person or other
+observation made within that zip code.
+
 ### Hypothetical examples
 
 * GitHub:SEIU-tech/CodeCommunity
